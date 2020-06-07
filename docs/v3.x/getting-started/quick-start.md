@@ -28,6 +28,10 @@ yarn create strapi-app my-project --quickstart
 npx create-strapi-app my-project --quickstart
 ```
 
+```bash
+npm run build
+npm run start
+```
 :::
 
 ::::
